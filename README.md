@@ -36,7 +36,7 @@ This image highlights the interconnected and influential industrial relationship
 
 #
 
-[Guns](https://github.com/sourceduty/guns)![President](https://github.com/user-attachments/assets/8071b1b4-9869-4893-a4ae-41ae70b5eeda)
+[Guns](https://github.com/sourceduty/guns)
 <br>
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
