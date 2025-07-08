@@ -41,3 +41,5 @@ This image highlights the interconnected and influential industrial relationship
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
 [Security](https://github.com/sourceduty/Security)
+<br>
+[Business](https://github.com/sourceduty/Business)
