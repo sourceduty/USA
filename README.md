@@ -30,6 +30,12 @@ This image highlights the interconnected and influential industrial relationship
 
 #
 
+![Canada-USA](https://github.com/user-attachments/assets/f9aeb328-0293-4582-8baf-e8fae58b88b7)
+
+[Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge) has made it clear that they have no desire to travel to, live in, or engage in significant business activities with the United States. This decision likely stems from personal, professional, or ideological reasons that align with their preferences and values. Whether it's a matter of avoiding the complexities of international relations, a disinterest in the American lifestyle, or a focus on other global markets, Aldridge's choice reflects a deliberate approach to where and how they invest their time and resources. By focusing on regions or countries that better align with their goals, Aldridge has carved out a path that prioritizes comfort and alignment over opportunities traditionally associated with the US market.
+
+#
+
 [Guns](https://github.com/sourceduty/guns)![President](https://github.com/user-attachments/assets/8071b1b4-9869-4893-a4ae-41ae70b5eeda)
 <br>
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
